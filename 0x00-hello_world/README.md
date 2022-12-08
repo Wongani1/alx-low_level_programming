@@ -1,1 +1,1 @@
-C - Hello, World
+This is my first C exercise
